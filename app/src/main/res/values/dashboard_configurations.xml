@@ -109,7 +109,7 @@
     * If you don't want to show email in about, just set about_email to empty
     * ex: <string name="about_email"></string> -->
     <string name="about_email_title">Email</string>
-    <string name="about_email">your@email.com</string>
+    <string name="about_email">YasanFashion@Gmail.com</string>
 
     <!-- Link 1 showed in about
     * Link 1 must be included, link 2 is optional
@@ -117,8 +117,8 @@
     * ex:
     * <string name="about_link_1_title">Facebook</string>
     * <string name="about_link_1_url">http://facebook.com/yourlink</string> -->
-    <string name="about_link_1_title">Google+</string>
-    <string name="about_link_1_url">http://plus.google.com/xxxx</string>
+    <string name="about_link_1_title">Telegram</string>
+    <string name="about_link_1_url">http://www.t.me/Yasanx</string>
 
     <!-- Link 2 showed in about
     * Link 2 is optional, if you don't want to show link 2, just set about_link_2_url to empty
@@ -127,8 +127,8 @@
     * ex:
     * <string name="about_link_2_title">Facebook</string>
     * <string name="about_link_2_url">http://facebook.com/yourlink</string> -->
-    <string name="about_link_2_title">Website</string>
-    <string name="about_link_2_url">http://yourwebsite.com</string>
+    <string name="about_link_2_title"></string>
+    <string name="about_link_2_url"></string>
 
     <!-- Contributors dialog
     * Take a look inside values/xml/contributors.xml to add contributors -->
