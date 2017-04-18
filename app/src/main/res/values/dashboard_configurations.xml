@@ -14,7 +14,7 @@
     <!-- CONFIG: DEFAULT THEME -->
 
     <!-- Use dark theme as default theme -->
-    <bool name="use_dark_theme">false</bool>
+    <bool name="use_dark_theme">true</bool>
 
     <!-- CONFIG: MUZEI -->
 
