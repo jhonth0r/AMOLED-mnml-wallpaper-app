@@ -17,8 +17,8 @@ android {
         applicationId "yasanq.amoledmnml.wallpapers"
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 1
-        versionName "1.0"
+        versionCode 23
+        versionName "2.3"
         vectorDrawables.useSupportLibrary = true
     }
 
