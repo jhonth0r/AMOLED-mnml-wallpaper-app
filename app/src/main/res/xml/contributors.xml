@@ -2,20 +2,35 @@
 <resources>
 
     <contributor
-        name="Name 1"
-        contribution="Contribution 1, contribution 2"
+        name="Tarokh"
+        contribution="Testing,Helping with the host server"
         link="" />
     <contributor
-        name="Name 2"
-        contribution="Contribution 1, contribution 2, contribution 3"
+        name="Rasmus"
+        contribution="Testing"
         link="" />
     <contributor
-        name="Another Name"
-        contribution="Contribution 1"
-        link="http://plus.google.com/..." />
+        name="Aaro Kuusela"
+        contribution="Testing"
+        link="" />
     <contributor
-        name="Another Name 2"
-        contribution="Contribution 1, contribution 2, contribution 3, contribution 4, contribution 5, contribution 6"
-        link="http://www.link.com" />
-
+        name="Soheil Bani Hashemi"
+        contribution="Testing"
+        link="" />
+    <contributor
+        name="Conor"
+        contribution="Testing"
+        link="" />
+    <contributor
+        name="Azekiel"
+        contribution="Testing,Helping with the host server"
+        link="" />
+    <contributor
+        name="Parastoo"
+        contribution="Testing"
+        link="" />
+    <contributor
+        name="Amol Amrit"
+        contribution="Helping with github"
+        link="" />
 </resources>
