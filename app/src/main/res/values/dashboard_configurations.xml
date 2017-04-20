@@ -125,7 +125,7 @@
     * ex:
     * <string name="about_link_2_title">Facebook</string>
     * <string name="about_link_2_url">http://facebook.com/yourlink</string> -->
-    <string name="about_link_2_title">GUTHUB</string>
+    <string name="about_link_2_title">GITHUB</string>
     <string name="about_link_2_url">https://github.com/AlienCreature7</string>
 
     <!-- Contributors dialog
